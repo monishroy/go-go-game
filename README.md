@@ -5,6 +5,9 @@
     <img src="https://img.shields.io/badge/Play-Go%20Go%20Game-blue?style=for-the-badge">
   </a>
 </p>
-<img align="center" src="https://raw.githubusercontent.com/monishroy/go-go-game/refs/heads/main/go-go-1.png" />
-<img align="center" src="https://raw.githubusercontent.com/monishroy/go-go-game/refs/heads/main/go-go-2.png" />
-<img align="center" src="https://raw.githubusercontent.com/monishroy/go-go-game/refs/heads/main/go-go-3.png" />
+<img align="center" src="./src/1.png" />
+<img align="center" src="./src/2.png" />
+<img align="center" src="./src/3.png" />
+<img align="center" src="./src/4.png" />
+<img align="center" src="./src/5.png" />
+
